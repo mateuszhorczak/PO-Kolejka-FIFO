@@ -1,5 +1,5 @@
 # PO-Kolejka-FIFO
-Zadanie 10 z PO
+Zadanie 10 z PO (NIE SKONCZONE WYJATKI)
 Zaimplementuj klasę (moduł zleceniobiorca) FIFO (First-In-First-Out) reprezentującą kolejkę liczb naturalnych z zakresu od 0 do N (N - parametr konstruktora) z ograniczoną pojemnością (pojemność maksymalna to również parametr konstruktora). Metody kolejki powinny kontrolować poprawność wywołań i w razie potrzeby wyrzucać wyjątki z odpowiedniej klasy (w ramach programu powinna powstać odpowiednia hierarchia klas wyjątków wywiedziona z klasy Exception). Minimalny zbiór sytuacji "wyjątkowych" obejmuje:
 
 kolejka pusta,
